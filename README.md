@@ -54,7 +54,7 @@ module encoder(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7); input d0,d1,d2,d3,d4,d5,d6,d7;
 ![Screenshot 2024-04-06 105754](https://github.com/harishsivaj/ENCODER8TO3DATAFLOW/assets/145742809/a61a5abe-1e93-47e5-8356-1e317a4c57a8)
 
 **RESULTS**
-
+The above program is executed successfully.
 
 
 
