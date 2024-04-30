@@ -1,4 +1,5 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+# EXPERIMENT : ENCODER 8TO3 DATAFLOW Modelling
+# DATE :
 
 **AIM:**
 
